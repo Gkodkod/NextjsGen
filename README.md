@@ -1,3 +1,12 @@
+# NextjsGen Project 🛡️ ⚛️
+MIT License
+
+A simple, scalable, and powerful implementation of engineering an architecture for building production ready React applications.
+
+## Exciting Introduction
+Using Typescript, Auth0, Reactjs best-practices, Next.js, NextAuth.js, TypeORM, Redux, Jest, Enzyme, ESLint-Typescript, Prettier, Docker, Yarn, Sentry.ioDocker, and more !!! 
+
+
 ## Getting Started
 
 Install the following nodejs modules:
@@ -13,7 +22,7 @@ Create .env file
 ```bash
 # General
 NODE_ENV=development
-SECRET=3qkjiJFQO(@)adqer/
+SECRET="<FILL IN>
 DEBUG=true
 APP_PORT=3000
 
